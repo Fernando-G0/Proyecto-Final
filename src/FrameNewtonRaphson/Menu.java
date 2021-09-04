@@ -44,7 +44,7 @@ public class Menu extends javax.swing.JFrame {
         jLabel1.setBackground(new java.awt.Color(255, 255, 255));
         jLabel1.setFont(new java.awt.Font("Dialog", 1, 12)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(204, 204, 204));
-        jLabel1.setText("Ingeniería en Sistemas Computacionales                              Grupo:1402");
+        jLabel1.setText("Ingeniería en Sistemas Computacionales                              Grupo:1502");
         jPanel1.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(170, 600, -1, -1));
 
         jButton1.setBackground(new java.awt.Color(0, 0, 0));
@@ -125,7 +125,7 @@ public class Menu extends javax.swing.JFrame {
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, 560, Short.MAX_VALUE)
+            .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
